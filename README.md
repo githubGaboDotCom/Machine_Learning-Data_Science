@@ -9,7 +9,7 @@
     <a href="https://colab.research.google.com/gist/gabecastri/bcf77407c958409c12ab9115ba92a6e4/project05.ipynb">Machine Learning Project 05</a>
     <hr>
     <br>
-    <p>Hope you like it!</p>
+    <p>More projects coming soon! Hope you like it!</p>
   </body>
   
  </html>
